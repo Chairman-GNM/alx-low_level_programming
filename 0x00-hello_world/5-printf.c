@@ -3,19 +3,12 @@
 
 
 /**
- *
  *  * main - texto
  *
- *   *
- *
  *    * Return: text in printf
- *
  *     */
 
-
-
 int main(void)
-
 {
 
 			printf("with proper grammar, but the outcome is a piece of art,\n");
@@ -23,4 +16,3 @@ int main(void)
 						return (0);
 
 }
-
