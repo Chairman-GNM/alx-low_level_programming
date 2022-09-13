@@ -1,9 +1,9 @@
-#include "main.h";
+#include "main.h"
 
 /**
- * main - Entry point
- * Return: always 0(Success)
- */
+* main - Entry point
+* Return: always 0(Success)
+*/
 int main(void)
 {
 	char str[] = "_putchar";
