@@ -2,11 +2,11 @@
 
 /**
  * main - Entry point
- * Return: always 0
+ * Return: always 0(Success)
  */
 int main(void)
 {
-	char str[] = "_putchar';
+	char str[] = "_putchar";
 
 	int ch;
 
