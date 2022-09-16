@@ -11,7 +11,7 @@ void print_number(int n)
 	/*first check if its negative*/
 	if (n < 0)
 	{
-		-putchar('-');
+		_putchar('-');
 		num = -num;
 	}
 
